@@ -1,4 +1,4 @@
-# cowin-slot-finder
+# cowin-slot-finder-inida
 
 A tool to find available vaccination slots for covid vaccine using Co-WIN [public](https://apisetu.gov.in/public/api/cowin) APIs.
 
